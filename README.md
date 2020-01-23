@@ -7,3 +7,5 @@
 ---
 
 ### Github practice 3
+
+![Summerin](./images/IMG_8966.JPG)
