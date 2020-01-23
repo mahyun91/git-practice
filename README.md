@@ -1,7 +1,9 @@
 # git-practice
 
-Github practice 
+# Github practice 
 
-Github practice 2
+## Github practice 2
 
-Github practice 3
+---
+
+### Github practice 3
